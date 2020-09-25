@@ -3,9 +3,8 @@
 Code Refractor
 
 ## Description
-The end goal of this project was to refractor code to ensure that it meet accessibility and readaibilty standards.
-No functionality has changed but the structure of the code itself has been improved, considated, and semantically aligned. 
-
+The purpose of this homework was to refractor code and ensure it meets accessibility and visibility expections.
+Although functionality was changed the structure within the code has been defined & improved.
 
 ## Changes made from original
 * Changed div tags to semantic elements, to applicable. 
@@ -20,7 +19,8 @@ No functionality has changed but the structure of the code itself has been impro
 
 
 ## Links
-
+https://github.com/Michaelcrowderjr1/Homework_1
+https://michaelcrowderjr1.github.io/Homework_1/
 
 ## Finished Product - Image
 ![Horiseon](https://github.com/Michaelcrowderjr1/Homework_1/blob/master/horiseon.png)
